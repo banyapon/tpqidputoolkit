@@ -1,0 +1,12 @@
+{
+    "name": "com.daydev.tpqidputoolkit",
+    "version": "1.0.0",
+    "displayName": "TPQI DPU Toolkit",
+    "description": "Wish us Luck,Custom tools and prefabs for your Unity project by DAYDEV.",
+    "unity": "6000",
+    "author": {
+      "name": "Banyapon Poolsawas",
+      "email": "daydevthailand@gmail.com"
+    }
+  }
+  
