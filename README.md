@@ -35,6 +35,10 @@ It is designed to complement classroom instruction by offering ready-made tools 
 
 ---
 
+## Setup
+
+Create Empty Unity 3D Project and Download "tpqidputoolkit.unitypackage" then import to your project.
+
 ## 🏫 Academic Context
 
 This toolkit supports programming education as explored in prior research:
@@ -61,8 +65,7 @@ Dhurakij Pundit University, Bangkok
 
 ## 📌 Requirements
 
-- Unity 2021.3 or higher
-- TextMeshPro (built-in Unity package)
+- Unity 2021.3 or higher (Unity 6+)
 - Visual Studio or Rider (C# IDE)
 
 ---
